@@ -6,6 +6,8 @@ This is a project I completed through the Udemy React Course.  It is a ReactJS p
 
 <img src='public/screenShot.png' alt='' />
 
+<a href='https://udemy-react-project.vercel.app/' target='_blank' rel='noreferrer'>Visit the live project</a>
+
 ## Installation
 Clone this repository into a local file<br>
 In your computer's teminal, cd into the file with the newly cloned repository<br>
