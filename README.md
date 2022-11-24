@@ -16,4 +16,5 @@ Run `npm start`<br>
 Your browser will automatically open the App.
 
 ## Contact Information
-[wlowrimore@gmail.com](mailto:wlowrimore@gmmail.com)
+[wlowrimore@gmail.com](mailto:wlowrimore@gmmail.com)<br>
+[https://www.williamlowrimore.com](https://www.williamlowrimore.com)
